@@ -40,6 +40,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     <?= $this->Html->css('sb-admin-2.css') ?>
     <?= $this->Html->css('morris.css') ?>
     <?= $this->Html->css('font-awesome.min.css') ?>
+    <?= $this->Html->css('font-awesome.css') ?>
     <?= $this->Html->meta('icon') ?>
     <?= $this->Html->css('base.css') ?>
     <?= $this->Html->css('cake.css') ?>

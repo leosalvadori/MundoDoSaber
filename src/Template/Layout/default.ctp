@@ -32,7 +32,10 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
 
     <?= $this->fetch('meta') ?>
     <?= $this->fetch('css') ?>
+    <?= $this->fetch('font') ?>
+    <?= $this->fetch('scss') ?>
     <?= $this->fetch('script') ?>
+    <?= $this->fetch('less') ?>
 
 </head>
 <body>

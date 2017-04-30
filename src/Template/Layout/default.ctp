@@ -28,25 +28,11 @@ $cakeDescription = 'CakePHP: the rapid development php framework';
 
     <?= $this->Html->css('base.css') ?>
     <?= $this->Html->css('cake.css') ?>
-    <?= $this->Html->css('sb-admin-2.css') ?>
-    <?= $this->Html->css('bootstrap.min.css') ?>
-    <?= $this->Html->css('bootstrap-theme.min.css') ?>
-    <?= $this->Html->css('font-awesome.min.css') ?>
-    <?= $this->Html->css('metisMenu.min.css') ?>
-    <?= $this->Html->css('morris.css') ?>
+
 
     <?= $this->fetch('meta') ?>
     <?= $this->fetch('css') ?>
     <?= $this->fetch('script') ?>
-    <?= $this->Html->script('npm.js') ?>
-    <?= $this->Html->script('sb-admin-2.js') ?>
-    <?= $this->Html->script('bootstrap.min.js') ?>
-    <?= $this->Html->script('jquery.min.js') ?>
-    <?= $this->Html->script('metisMenu.min.js') ?>
-    <?= $this->Html->script('morris-data.js') ?>
-    <?= $this->Html->script('raphael.min.js') ?>
-    <?= $this->Html->script('morris.min.js') ?>
-
 
 </head>
 <body>

@@ -39,6 +39,21 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     <?= $this->Html->css('base.css') ?>
     <?= $this->Html->css('cake.css') ?>
     <?= $this->Html->css('home.css') ?>
+    <?= $this->Html->css('sb-admin-2.css') ?>
+    <?= $this->Html->css('bootstrap.min.css') ?>
+    <?= $this->Html->css('bootstrap-theme.min.css') ?>
+    <?= $this->Html->css('font-awesome.min.css') ?>
+    <?= $this->Html->css('metisMenu.min.css') ?>
+    <?= $this->Html->css('morris.css') ?>
+
+    <?= $this->Html->script('npm.js') ?>
+    <?= $this->Html->script('sb-admin-2.js') ?>
+    <?= $this->Html->script('bootstrap.min.js') ?>
+    <?= $this->Html->script('jquery.min.js') ?>
+    <?= $this->Html->script('metisMenu.min.js') ?>
+    <?= $this->Html->script('morris-data.js') ?>
+    <?= $this->Html->script('raphael.min.js') ?>
+    <?= $this->Html->script('morris.min.js') ?>
     <link href="https://fonts.googleapis.com/css?family=Raleway:500i|Roboto:300,400,700|Roboto+Mono" rel="stylesheet">
 </head>
 <body class="home">
@@ -936,7 +951,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
 
   <!-- Custom Theme JavaScript -->
   <script src="../dist/js/sb-admin-2.js"></script>
-  
+
 
 <!-- <header class="row">
     <div class="header-image"><?= $this->Html->image('cake.logo.svg') ?></div>

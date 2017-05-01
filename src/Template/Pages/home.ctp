@@ -56,8 +56,9 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
     <link href="https://fonts.googleapis.com/css?family=Raleway:500i|Roboto:300,400,700|Roboto+Mono" rel="stylesheet">
 </head>
 <body class="home">
+  <h1> TESTE </h1>
 
-<header class="row">
+<!-- <header class="row">
     <div class="header-image"><?= $this->Html->image('cake.logo.svg') ?></div>
     <div class="header-title">
         <h1>Welcome to CakePHP <?= Configure::version() ?> Red Velvet. Build fast. Grow solid.</h1>
@@ -283,7 +284,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
             </li>
         </ul>
     </div>
-</div>
+</div> -->
 
 </body>
 </html>
